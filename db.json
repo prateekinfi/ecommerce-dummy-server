@@ -780,66 +780,6 @@
                 "typeVariant": "D",
                 "colorVariant": "1",
                 "imageUrl": "http://www.lorempixel.com/723/776"
-              },{
-                "id": 266,
-                "name": "Iure",
-                "price": 278,
-                "subCategoryId": 106,
-                "categoryId": 3,
-                "rate": 4.18,
-                "content": "Totam fuga at quis vel blanditiis voluptatem suscipit. Ratione voluptatibus deleniti totam aspernatur consequatur nihil enim. Deserunt eum enim architecto in animi sapiente nobis. Error enim exercitationem doloribus fugit neque.",
-                "review": 169,
-                "typeVariant": "D",
-                "colorVariant": "5",
-                "imageUrl": "https://dummyimage.com/1007x329"
-              },{
-                "id": 267,
-                "name": "Asperiores",
-                "price": 272,
-                "subCategoryId": 106,
-                "categoryId": 3,
-                "rate": 0.25,
-                "content": "Alias aut laborum esse. Vitae repellendus deserunt doloremque eaque. Architecto repudiandae similique officiis repellendus adipisci nihil aliquam.",
-                "review": 28,
-                "typeVariant": "C",
-                "colorVariant": "4",
-                "imageUrl": "http://www.lorempixel.com/905/770"
-              },{
-                "id": 268,
-                "name": "Et",
-                "price": 222,
-                "subCategoryId": 106,
-                "categoryId": 3,
-                "rate": 1.2,
-                "content": "Alias dolor cupiditate esse aliquam amet. Corrupti nostrum perspiciatis voluptatem autem officia. Enim molestiae similique recusandae iure quod odio. Qui quasi cupiditate recusandae sit.",
-                "review": 151,
-                "typeVariant": "D",
-                "colorVariant": "4",
-                "imageUrl": "http://www.lorempixel.com/530/215"
-              },{
-                "id": 269,
-                "name": "Deleniti",
-                "price": 166,
-                "subCategoryId": 107,
-                "categoryId": 4,
-                "rate": 0.62,
-                "content": "Inventore praesentium dignissimos debitis cumque. Repellat alias voluptatem numquam. Quibusdam consequuntur ipsa tempore labore earum id saepe animi.",
-                "review": 50,
-                "typeVariant": "D",
-                "colorVariant": "1",
-                "imageUrl": "https://dummyimage.com/480x442"
-              },{
-                "id": 270,
-                "name": "Vel",
-                "price": 127,
-                "subCategoryId": 107,
-                "categoryId": 4,
-                "rate": 0.37,
-                "content": "Recusandae harum hic magni harum architecto minima ullam. Molestiae debitis aut soluta optio. Dolorem iure cumque aspernatur quasi cupiditate est. Harum temporibus similique deleniti tempore culpa qui repellat sed.",
-                "review": 72,
-                "typeVariant": "B",
-                "colorVariant": "2",
-                "imageUrl": "https://placeholdit.imgix.net/~text?txtsize=55&txt=977x381&w=977&h=381"
               }
 ]
 }
